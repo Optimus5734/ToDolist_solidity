@@ -1,9 +1,12 @@
-## A decentralized note-taking application using Ethereum on the Goreli testnet.
-## Introduction
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-Noteit is a decentralized note-taking application built on the Ethereum blockchain, specifically on the Goreli testnet. It leverages React for the frontend and Ether.js to connect and interact with the Ethereum blockchain.
-Try running some of the following tasks:
 
+## Introduction(NoteIt: A Decentralized Note-Taking Application on the Goreli Testnet)
+
+
+NoteIt is a decentralized note-taking application built on the Ethereum blockchain, specifically on the Goreli testnet. The project serves as a basic use case for Hardhat, featuring a sample contract, a corresponding test for that contract, and a deployment script.
+
+It leverages React for the frontend and Ether.js to facilitate seamless connection and interaction with the Ethereum blockchain. NoteIt allows users to create and store notes in a decentralized manner, showcasing the potential of Ethereum on the Goreli testnet.
+
+Try running some of the following tasks:
 
 ## Tech Stack
 
